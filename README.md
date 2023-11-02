@@ -1,4 +1,4 @@
-# -Face-Recognation-Using-YOLOv8
+# Face-Recognation-Using-YOLOv8
 
 The face recognition project uses YOLO v8 technology with custom model, 
 which is one of the advanced technologies of computer vision in object detection with facial recognition models. 

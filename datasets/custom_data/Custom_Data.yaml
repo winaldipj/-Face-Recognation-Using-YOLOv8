@@ -1,0 +1,13 @@
+train: images
+val: images
+
+nc: 8
+names: [
+'Najla',
+'Tiara',
+'Abdul',
+'Levian',
+'Mufita',
+'Budi',
+'Ridho',
+'Winaldi']
